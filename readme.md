@@ -32,8 +32,11 @@ Or you can use plugin's added classes:
 }
 ```
 
+## Issues that need to be fixed
+- Media manager doesn't show/pre-select the selected image and need to be fixed in assets/js/rz-admin-script.js
+
 ## Features that need to work on it
 
 - Add 'Add image' ability to Apearance > Customizer > Menus
 - Lazy loading and responsive images
-- Add settings page to plugin to set values like custom class names, image inline default sizes, etc.
+- Add settings page to plugin to set values like custom class names, image inline default sizes, media image size like thumbnail, medium or large.
