@@ -1,4 +1,4 @@
-# Add Image to Menu
+# WP Plgin: Add Image to Menu
 Contributors: Reza
 Tags: image, menu, icon
 Requires at least: 5
@@ -18,7 +18,7 @@ First way is using the default WP menu classes:
 ```css
 .menu-item img
 {
-	/* some styles */
+   /* some styles */
 }
 ```
 
@@ -28,7 +28,7 @@ Or you can use plugin's added classes:
 .wp-menu-img-after img,
 .wp-menu-img-before img
 {
-	/* some styles */
+   /* some styles */
 }
 ```
 
