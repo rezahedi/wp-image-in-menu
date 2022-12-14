@@ -1,4 +1,4 @@
-# WP Plgin: Add Image to Menu
+# WP Plugin: Add Image to Menu
 Contributors: Reza
 Tags: image, menu, icon
 Requires at least: 5
