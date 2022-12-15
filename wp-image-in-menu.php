@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Add Image to Menu
-Plugin URI: 
+Plugin URI: https://rezahedi.dev/projects/wp-image-in-menu
 description: Add image from media library to WordPress menu items. My plugin do not import any js, css or other assets to your frontend site exept the menu image tag. You need to add your own css and js to style/use image in menu (for optimal performance matter).
 Version: 1.0
 Author: Reza Zahedi
